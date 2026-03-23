@@ -1,0 +1,58 @@
+        Scenario 1: Make a Reservation
+	•	Actor: Customer
+	•	Scenario: A customer logs into the system, selects a date and time for their reservation, and confirms the details. The system stores the reservation and sends a confirmation.
+
+	Scenario 2: Check Table Availability
+	•	Actor: System
+	•	Scenario: After a customer selects a reservation date, the system checks the availability of tables for the selected time and informs the customer if a table is available.
+
+	Scenario 3: Modify a Reservation
+	•	Actor: Customer, Manager
+	•	Scenario: A customer logs into the system to modify their reservation details, and the manager updates the reservation accordingly.
+
+	Scenario 4: Cancel a Reservation
+	•	Actor: Customer, Manager
+	•	Scenario: A customer or manager decides to cancel an existing reservation. The system updates the records, and the availability is refreshed.
+	Scenario 5: Add a Walk-In Reservation
+	•	Actor: Manager
+	•	Scenario: A manager inputs walk-in customer details into the system, and the system checks table availability. The walk-in reservation is saved.
+	
+  	Scenario 6: Place an Order
+	•	Actor: Customer
+	•	Scenario: A customer browses the menu, selects their items, and proceeds to checkout. The order is placed and sent to the kitchen.
+	
+  	Scenario 7: Input Customer Order
+	•	Actor: Waiter
+	•	Scenario: The waiter inputs a customer’s order into the system after the customer has selected their items, and the order is sent to the kitchen.
+
+  	Scenario 8: Update Order Status
+	•	Actor: Kitchen Staff
+	•	Scenario: Kitchen staff updates the status of an order to “In Progress” or “Ready,” and the system reflects this change.
+
+  	Scenario 9: Serve an Order
+	•	Actor: Waiter
+	•	Scenario: The waiter serves the customer’s order after the kitchen staff updates the order status to “Ready.”
+	
+  	Scenario 10: Handle an Unavailable Item
+	•	Actor: Kitchen Staff, Waiter
+	•	Scenario: The kitchen staff flags an unavailable item, and the waiter suggests an alternative item to the customer.
+
+  	Scenario 11: Generate Daily Report
+	•	Actor: Manager
+	•	Scenario: The manager logs into the system and generates the daily sales report for review.
+	
+  	Scenario 12: View Reservations
+	•	Actor: Manager
+	•	Scenario: The manager logs into the system and views the reservation dashboard, displaying all customer reservations.
+	
+  	Scenario 13: Notify Staff of Tasks
+	•	Actor: System
+	•	Scenario: The system automatically sends task notifications to staff when there are pending tasks or deadlines to be met.
+
+  	Scenario 14: Redeem Loyalty Rewards
+	•	Actor: Customer
+	•	Scenario: A customer with accumulated loyalty points logs into the system and redeems them for rewards such as discounts or special offers.
+	
+  	Scenario 15: Process Delivery Order
+	•	Actor: System
+	•	Scenario: The system processes a customer’s delivery order, sends the order details to the kitchen, and updates the delivery status.
