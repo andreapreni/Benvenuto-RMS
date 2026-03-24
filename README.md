@@ -1,4 +1,4 @@
-# Project Overview – Toscana RMS
+# Project Overview – Benvenuto-RMS
 Our project focuses on designing and analyzing a Restaurant Management System to improve efficiency in managing restaurant operations. The system will cover key aspects such as table reservations, order management, employee scheduling, inventory tracking, and financial reporting. Our goal is to create a structured and optimized workflow that ensures smooth service, cost efficiency, and customer satisfaction. 
 
 	•	Customer Experience:
