@@ -1,5 +1,5 @@
 # Project Overview – Benvenuto-RMS
-Our project focuses on designing and analyzing a Restaurant Management System to improve efficiency in managing restaurant operations. The system will cover key aspects such as table reservations, order management, employee scheduling, inventory tracking, and financial reporting. Our goal is to create a structured and optimized workflow that ensures smooth service, cost efficiency, and customer satisfaction. 
+This project is centered around the analysis and design of a Restaurant Management System aimed at streamlining and enhancing the overall management of restaurant activities. The system addresses critical areas including table booking, processing of orders, staff shift planning, stock monitoring, and revenue analysis. The primary objective is to develop a well-structured and efficient workflow that guarantees seamless service delivery, reduced operational costs, and an elevated dining experience for customers. 
 
 	•	Customer Experience:
 We begin with a module that tracks customer interactions—from making reservations or walking in, being seated, and placing orders. This module visually connects customers to table management and front-of-house operations.
