@@ -1,4 +1,4 @@
-        Scenario 1: Make a Reservation
+    Scenario 1: Make a Reservation
 	•	Actor: Customer
 	•	Scenario: A customer logs into the system, selects a date and time for their reservation, and confirms the details. The system stores the reservation and sends a confirmation.
 
